@@ -4,31 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Upcomimg web developer
 ----------------------
 
-I'm a dedicated and curious learner diving into the world of computer programming. With a strong passion for problem solving and technology, I'm currently building a solid foundation in coding while exploring how software can drive innovation.
+I'm a tech-enthusiastic problem solver passionate about learning and growing in web development. My passion is deeprooted in problem solving through technology.  Hi 👋 My name is Rahab Wambugu
+==============================
 
-* 🌍  I'm based in Nairobi, Kenya
+My Current Project
+-----------------------
+While still on my learning journey, I'm actively applying my skills to a real-world project. I'm currently working on a project which is a school timetable, it is kinda interesting and yet mind-blowing. It has kept me on toes and I like it.
+* Here's a snippet of my current project.
+
+![Screenshot of School Timetable](image-1.png)
+
+
+* 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [wambugurahab53@gmail.com](mailto:wambugurahab53@gmail.com)
-* 🧠  I'm learning im focused on mastering programming fundamentals, improving my problem solving skills, and understanding how to write clean and efficient code. My interests include web and software develoment.
-* 🤝  I'm open to collaborating on future projects
+* 🧠  I'm learning and focused on mastering programming fundamentals, improving my problem solving skills, and understanding how to write clean and efficient code.
+* 🤝  I'm open to collaborating on future projects.
 
 <a href="https://www.github.com/rahab-wambugu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rahab-wambugu?logo=github&style=for-the-badge&color=84cc16&labelColor=713f12" /></a>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/rahab-wambugu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rahab-wambugu"><img src="https://github-readme-stats.vercel.app/api?username=rahab-wambugu&show_icons=true&hide=&count_private=true&title_color=000000&text_color=64748b&icon_color=84cc16&bg_color=713f12&hide_border=true&show_icons=true" alt="rahab-wambugu's GitHub stats" /></a>
-
-<a href="http://www.github.com/rahab-wambugu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahab-wambugu&stroke=64748b&background=713f12&ring=000000&fire=000000&currStreakNum=64748b&currStreakLabel=000000&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="http://www.github.com/rahab-wambugu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rahab-wambugu&bg_color=713f12&color=64748b&line=84cc16&point=64748b&area_color=713f12&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/rahab-wambugu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahab-wambugu&langs_count=10&title_color=000000&text_color=64748b&icon_color=84cc16&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
