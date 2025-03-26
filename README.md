@@ -23,15 +23,14 @@ While still on my learning journey, I'm actively applying my skills to a real-wo
 <a href="https://www.github.com/rahab-wambugu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rahab-wambugu?logo=github&style=for-the-badge&color=84cc16&labelColor=713f12" /></a>
 
+### Skills
+
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
+
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />- 👋 Hi, I’m @rahab-wambugu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 rahab-wambugu/rahab-wambugu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
